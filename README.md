@@ -1,15 +1,16 @@
 # Alireza Shokri
 
-Web Designer & WordPress Specialist focused on building, optimizing, and maintaining business websites and e-commerce experiences.
+WordPress Developer & Web Designer focused on building, optimizing, and maintaining corporate and e-commerce websites.
 
 ## What I Work On
 
 - WordPress and WooCommerce websites
+- Theme customization and plugin configuration
 - Responsive web design
-- Website performance and speed optimization
-- On-page SEO
-- Hosting, migration, backup, and maintenance
-- Custom PHP/MySQL web projects
+- Performance and speed optimization
+- On-page SEO and security hardening
+- Hosting configuration, backups, migrations, and database setup
+- AI-assisted custom web development with HTML, CSS, JavaScript, PHP, and MySQL
 
 ## Portfolio
 
@@ -20,12 +21,12 @@ I keep client work on GitHub as **case studies rather than source-code repositor
 
 ## Selected Projects
 
-- [Sogand Shoes](https://github.com/officialshokri/sogand-shoes) — custom PHP/MySQL shoe e-commerce website
-- [Baharland](https://github.com/officialshokri/baharland) — e-commerce website
-- [Abu Jamal Ahvazi](https://github.com/officialshokri/abu-jamal-ahvazi) — custom restaurant ordering website
-- [Asan GSM](https://github.com/officialshokri/asan-gsm) — e-commerce website
-- [Wallfix](https://github.com/officialshokri/wallfix) — corporate website
+- [Sogand Shoes](https://github.com/officialshokri/sogand-shoes) — shoe e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
+- [Baharland](https://github.com/officialshokri/baharland) — e-commerce website using AI-assisted custom development, responsive design, and online ordering
+- [Abu Jamal Ahvazi](https://github.com/officialshokri/abu-jamal-ahvazi) — food ordering website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
+- [Asan GSM](https://github.com/officialshokri/asan-gsm) — WordPress/WooCommerce e-commerce website
+- [Wallfix](https://github.com/officialshokri/wallfix) — WordPress corporate website
 
 ## Approach
 
-I focus on maintainable websites, clear user journeys, responsive interfaces, performance, security, and practical SEO implementation.
+I focus on maintainable websites, clear user journeys, responsive interfaces, performance, security, and practical on-page SEO. For custom-coded projects, I use AI-assisted development workflows to understand, test, troubleshoot, adapt, and integrate code into working websites.
